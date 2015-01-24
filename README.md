@@ -1,2 +1,0 @@
-# datasciencecoursera
-online course project
